@@ -10,7 +10,7 @@ where each sphere touches each other. When ray cast from camera enters the space
 or exit in any direction. This creates fractal like structure.
 
 The .ini file sets some parameters that provide tradeoff between performance and quality.
-POV-Ray produces .png files that can be combined with the help of av.. to create animation.
+POV-Ray produces .png files that can be combined with the help of [avconv](https://libav.org/avconv.html) to create animation.
 
 You can try to change the antialias settings for better quality:
 Antialias_Depth=9
