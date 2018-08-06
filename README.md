@@ -12,6 +12,13 @@ or exit in any direction. This creates fractal like structure.
 The .ini file sets some parameters that provide tradeoff between performance and quality.
 POV-Ray produces .png files that can be combined with the help of [avconv](https://libav.org/avconv.html) to create animation.
 
+I use the following command in avconv:
+
+
+```
+avconv -framerate 60 -f image2 -i img/img%04d.png -c:v h264 -crf 1 -pix_fmt yuv444p movie.mp4
+```
+
 You can try to change the antialias settings for better quality:
 Antialias_Depth=9
 Antialias_Threshold=0.001
