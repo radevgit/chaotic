@@ -16,6 +16,11 @@ You can try to change the antialias settings for better quality:
 Antialias_Depth=9
 Antialias_Threshold=0.001
 
+Some old animation. When I have time will produce new one: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=P383KFODBmI
+" target="_blank"><img src="http://img.youtube.com/vi/P383KFODBmI/0.jpg" 
+alt="Chaotic Scattering" width="240" height="180" border="10" /></a>
+
 
 ![Chaotic Scattering](https://github.com/rradev/chaotic/raw/master/img0091.png "Frame 0091")
 
