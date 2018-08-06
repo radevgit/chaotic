@@ -11,3 +11,17 @@ or exit in any direction. This creates fractal like structure.
 
 The .ini file sets some parameters that provide tradeoff between performance and quality.
 POV-Ray produces .png files that can be combined with the help of av.. to create animation.
+
+You can try to change the antialias settings for better quality:
+Antialias_Depth=9
+Antialias_Threshold=0.001
+
+
+![Chaotic Scattering](https://github.com/rradev/chaotic/raw/master/img0091.png "Frame 0091")
+
+
+![Chaotic Scattering](https://github.com/rradev/chaotic/raw/master/img0564.png "Frame 0564")
+
+
+![Chaotic Scattering](https://github.com/rradev/chaotic/raw/master/img1309.png "Frame 1309")
+
