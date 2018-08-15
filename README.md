@@ -28,7 +28,7 @@ Antialias_Threshold=0.001
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qRlseI1eBm0
 " target="_blank"><img src="http://img.youtube.com/vi/qRlseI1eBm0/0.jpg" 
-alt="Chaotic Scattering" width="1280" height="720" border="10" /></a>
+alt="Chaotic Scattering" width="240" height="180" border="10" /></a>
 
 
 ![Chaotic Scattering](https://github.com/rradev/chaotic/raw/master/img0091.png "Frame 0091")
