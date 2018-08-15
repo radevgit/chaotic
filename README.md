@@ -23,11 +23,11 @@ You can try to change the antialias settings for better quality:
 Antialias_Depth=9
 Antialias_Threshold=0.001
 
-Some old animation. When I have time will produce new one:
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=P383KFODBmI
-" target="_blank"><img src="http://img.youtube.com/vi/P383KFODBmI/0.jpg" 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qRlseI1eBm0
+" target="_blank"><img src="http://img.youtube.com/vi/qRlseI1eBm0/0.jpg" 
 alt="Chaotic Scattering" border="10" /></a>
 
 
