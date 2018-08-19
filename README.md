@@ -18,6 +18,12 @@ I use the following command in avconv:
 ```
 avconv -framerate 60 -f image2 -i img/img%04d.png -c:v h264 -crf 1 -pix_fmt yuv444p movie.mp4
 ```
+or following command in ffmpeg that is optimized for YouTube:
+
+```
+ffmpeg -framerate 48 -f image2 -i img/img%04d.png -c:v libx264 -preset slower -profile:v high -crf 18 -coder 1 -pix_fmt yuv420p -movflags +faststart -g 96 -bf 2 -metadata title="Chaotic Scattering" chaotic-scattering.mp4
+```
+
 
 You can try to change the antialias settings for better quality:
 Antialias_Depth=9
